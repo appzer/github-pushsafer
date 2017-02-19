@@ -3,7 +3,7 @@
 ##How to send push-notification out of github with webhooks &amp; Pushsafer
 Always be informed of changes to your repository.
 
-Pushsafer make it easy and safe to send &amp; receive push-notifications to your
+[Pushsafer.com](https://www.pushsafer.com) make it easy and safe to send &amp; receive push-notifications to your
 - Android devices
 - iOS devices (iPhone, iPad, iPod Touch, Watch)
 - Windows 10 Phone & Desktop
