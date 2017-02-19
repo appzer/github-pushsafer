@@ -38,4 +38,4 @@ Always be informed of changes to your repository.
 Any API parameters, as found on https://www.pushsafer.com/en/pushapi, can be appended to the URL.
 
 ## Screenshots
-![Pushsafer](https://www.pushsafer.com/de/assets/examples/github_push_notification.jpg) ![Pushsafer](https://www.pushsafer.com/de/assets/examples/github_push_notification.jpg) ![Pushsafer](https://www.pushsafer.com/de/assets/examples/github_client.jpg)
+![Pushsafer](https://www.pushsafer.com/de/assets/examples/github_push_notification.jpg) ![Pushsafer](https://www.pushsafer.com/de/assets/examples/github_client.jpg)
