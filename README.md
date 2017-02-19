@@ -20,6 +20,8 @@ Always be informed of changes to your repository.
 
 ![Pushsafer](https://www.pushsafer.com/de/assets/examples/github_add_webhook.jpg)
 
+You can create up to 20 webhooks for each event on each installation target (specific organization or specific repository).
+
 ## Example payload URLs
 ### with private key (20 chars)
 
