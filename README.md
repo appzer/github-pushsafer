@@ -1,11 +1,12 @@
 ![Pushsafer](https://www.pushsafer.com/de/assets/logos/logo.png)
 # github-pushsafer
-How to send push-notification out of github with webhooks &amp; Pushsafer
+##How to send push-notification out of github with webhooks &amp; Pushsafer
+Always be informed of changes to your repository.
 
 Pushsafer make it easy and safe to send &amp; receive push-notifications to your
-- Android device
-- iOS device (incl. iPhone, iPad, iPod Touch)
-- Windows Phone & Desktop
+- Android devices
+- iOS devices (iPhone, iPad, iPod Touch, Watch)
+- Windows 10 Phone & Desktop
 - Browser (Chrome & Firefox)
 
 ## Usage
