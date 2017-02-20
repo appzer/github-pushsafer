@@ -39,6 +39,10 @@ You can create up to 20 webhooks for each event on each installation target (spe
 
 Any API parameters, as found on https://www.pushsafer.com/en/pushapi, can be appended to the URL.
 
+## Modify Push-Notification Content (PHP example)
+
+If you want to customize the message text of your push-notification, modify this file to your needs: [github_webhooks.php](https://github.com/appzer/github-pushsafer/blob/master/github_webhooks.php). After that, upload the file to your server and change the payload URL to yours.
+
 ## Events that trigger a webhook
 |Name | Description |
 | ------------- | ------------- |
