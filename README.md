@@ -9,6 +9,9 @@ Always be informed of changes to your repository.
 - Windows 10 Phone & Desktop
 - Browser (Chrome & Firefox)
 
+## Download
+https://github.com/appzer/github-pushsafer/
+
 ## Usage
 1. open the desired repository
 2. go to settings
